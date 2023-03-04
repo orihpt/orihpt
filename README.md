@@ -2,9 +2,9 @@
 Hello, I'm Ori from Israel
 
 ## Experience
-I started learning to code about 5 years ago.
-I studied `Visual Basic` and `Java`
-and I'm currently programming in `Swift` (iOS dev) and `Matlab` (building aplications).
+- Matlab (since 2018)
+- Xcode/Swift (since 2019)
+- Flutter (since 2022)
 
 ## Projects
 I have no public projects (yet!)
