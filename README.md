@@ -1,13 +1,15 @@
 # Ori HPT 👨🏻‍🦰
 Hello, I'm Ori from Israel
+I am a Flutter Application Developer at Level App
 
 ## Experience
 - Matlab (since 2018)
+- Android Studio (since 2018)
 - Xcode/Swift (since 2019)
 - Flutter (since 2022)
 
 ## Projects
-I have no public projects (yet!)
+Check out [Blind Keyboard](https://github.com/orihpt/BlindKeyboard), a special keyboard for blind people.
 
 ## Metrics and stuff
 
