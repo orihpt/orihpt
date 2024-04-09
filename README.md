@@ -2,6 +2,9 @@
 Hello, I'm Ori from Israel
 I am a Flutter Application Developer at Level App
 
+## Resume
+[Click here to download my resume **(Hebrew)**](https://github.com/orihpt/orihpt/blob/main/קורות%20חיים%20-%20אורי%20האופטמן.pdf?raw=true)
+
 ## Experience
 - Matlab (since 2018)
 - Android Studio (since 2018)
